@@ -6,3 +6,5 @@ Oranges
 carrots
 Stroberry
 Lemon
+raddishes
+Cucumber
